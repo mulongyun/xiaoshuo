@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mulongyun/xiaoshuo/issues"
   },
-  "homepage": "https://github.com/mulongyun/xiaoshuo#readme"
+  "homepage": "https://github.com/mulongyun/xiaoshuo#readme",
+  "devDependencies": {"gitbook-cli": "^2.3.2"}
 }
